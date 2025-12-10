@@ -1,0 +1,51 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
+
+.list-index {
+    height: 500px;
+    width: 500px;
+    margin: 200px auto;
+    padding: 10px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    background-color: rgb(255, 217, 167);
+}
+li {
+    text-align: start;
+    padding: 10px;
+    font-size: large;
+}
+
+.recipes {
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    background-color: rgb(255, 217, 167);
+}
+
+.info-headers{
+    text-align: start;
+}
+
+.home{
+    color: rgb(47, 41, 33);
+    background-color: rgb(251, 164, 50);
+    border: 2px;
+    padding: 10px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    font-size: 20px;
+    margin: 30px;
+}
